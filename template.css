@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+   
+}
+.main
+{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    
+}
+.box1
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+.box3 h1
+{
+    position: absolute;
+    color: #FFFFFF;
+    margin:25% 0 0 25px  ;
+    font-size: 36px;
+}
+.box2
+{
+    height:220px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    
+}
+.box2 h1
+{
+    padding-top:75px;
+    font-family: "Oswald";
+    font-size: 48px;
+    align-items: center;
+}
+.box2 p
+{
+    font-size: 16px;
+    font-family: "Oswald";
+    padding-top: 20px;
+}
+.box3
+{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#h1
+{
+    font-size: 64px;
+    color: #FFFFFF;
+    margin:29% 0 0 25px  ;
+   
+}
+.box3 button
+{
+    position: absolute;
+    margin: 35% 0 0 25px;
+    font-size: 18px;
+    font-family: "Oswald";
+    padding: 12px;
+}
+.box3 img
+{
+    width: 100%;
+}
+
+.main2
+{
+    height:500vh;
+    width: 100%;
+    /* position: relative; */
+    background-color: red;
+    display: flex;
+}
+
+
+#left
+{
+    width: 60%;
+    height:400vh;
+    background-color: rgb(9, 95, 7);
+    /* position: absolute; */
+    margin:20px;
+    padding: 20px;
+}
+#right
+{
+    width: 30%;
+    height: 100vh;
+    background-color: aqua;
+    position: absolute; 
+    margin:20px;  
+}
+.l1
+{
+    height: auto;
+    width: auto;
+    background-color: #FFFFFF;
+    margin: 10px;
+    padding-bottom: 50px;
+}
+.l1 img
+{
+    height: auto;
+    width: 100%;
+    
+}
